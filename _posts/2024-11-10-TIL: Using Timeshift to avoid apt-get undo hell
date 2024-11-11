@@ -1,0 +1,3 @@
+# TIL: Using Timeshift to avoid apt-get undo hell
+
+For every hour I spend actually programming I spend god knows how much time finnagling development environments. It took me ages to setup my Ubuntu environment to have PyTorch use my nvidia drivers GPU. Then I needed to upgrade the nvidia driver to have it work with 
